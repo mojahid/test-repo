@@ -1,0 +1,4 @@
+cd Users/Shared/Previously\ Relocated\ Items/Security/Master/Data-Mining/
+
+
+pyuic5 -x mainwindow.ui -o mainwindow.py
